@@ -3,7 +3,7 @@
 ## 🧑‍🎓 About Me  
 - 🎓 **Currently:** Undergraduate in Electronics and Telecommunication Engineering at the University of Moratuwa 
 - 🚀 **Passionate About:** FPGAs, Analog circuits, Digital design, Embedded systems, Machine Learning
-- 🌐 **Check Out My CV:** LINK  
+- 🌐 **Check Out My CV:** [CV}(CV_Pravindu_Goonetilleke.pdf)  
 
 ---
 
