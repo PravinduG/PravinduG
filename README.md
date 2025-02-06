@@ -15,8 +15,8 @@
 ---
 
 ## 📬 Connect With Me  
-- ✉️ **Email:** prvindugoonetilleke@gmail.com / goonetillekep.22@uom.lk
-- 💼 **LinkedIn:** [[Your LinkedIn Profile] ](https://www.linkedin.com/in/pravindu-goonetilleke) 
+- ✉️ **Email:** pravindugoonetilleke@gmail.com / goonetillekep.22@uom.lk
+- 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/pravindu-goonetilleke) 
 
 ---
 ## 🌟 Highlighted Projects  
