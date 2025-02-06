@@ -20,7 +20,7 @@
 
 ---
 ## 🌟 Highlighted Projects  
-- **📡 [UART-VHDL](https://github.com/PravinduG/VHDL-Implementation-of-UART-Protocol):** UART Protocol Implementation on VHDL  
+- **📡 [VHDL-Implementation-of-UART-Protocol](https://github.com/PravinduG/VHDL-Implementation-of-UART-Protocol):** UART Protocol Implementation on VHDL  
 - **🔌 [Analog Function Generator](https://github.com/PravinduG/Analog-Function-Generator):** Function Generator made purely with analog components  
 - **🚗 [SLAPSonic Park Assist](https://github.com/PravinduG/SLAP-Sonic-ParkAssist):** Parking Assistance Kit  
 
