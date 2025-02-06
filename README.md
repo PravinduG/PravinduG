@@ -1,16 +1,29 @@
-## Hi there 👋
+# 🌟 Hello, I'm Pravindu
 
-<!--
-**PravinduG/PravinduG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍🎓 About Me  
+- 🎓 **Currently:** Undergraduate in Electronics and Telecommunication Engineering at the University of Moratuwa 
+- 🚀 **Passionate About:** FPGAs, Analog circuits, Digital design, Embedded systems, Machine Learning
+- 🌐 **Check Out My CV:** LINK  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Tools & Technologies  
+- **🌍 HDL:** VHDL | Verilog
+- **🔧 Electronics:** LTSpice | MATLAB | Arduino
+- **💻 Programming:** Python | C++ | Java  
+
+---
+
+## 📬 Connect With Me  
+- ✉️ **Email:** prvindugoonetilleke@gmail.com / goonetillekep.22@uom.lk
+- 💼 **LinkedIn:** [[Your LinkedIn Profile] ](https://www.linkedin.com/in/pravindu-goonetilleke) 
+
+---
+## 🌟 Highlighted Projects  
+- **📡 [UART-VHDL](https://github.com/PravinduG/VHDL-Implementation-of-UART-Protocol):** UART Protocol Implementation on VHDL  
+- **🔌 [Analog Function Generator](https://github.com/PravinduG/Analog-Function-Generator):** Function Generator made purely with analog components  
+- **🚗 [SLAPSonic Park Assist](https://github.com/PravinduG/SLAP-Sonic-ParkAssist):** Parking Assistance Kit  
+
+ 
+
+
