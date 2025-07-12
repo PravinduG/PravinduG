@@ -9,7 +9,7 @@
 
 ## ⚙️ Tools & Technologies  
 - **🌍 HDL:** VHDL | Verilog | SystemVerilog | High Level Synthesis (HLS)
-- **🔧 Electronics:** LTSpice | MATLAB | Arduino
+- **🔧 Electronics:** LTSpice | MATLAB | Arduino | Altium Desitner 
 - **💻 Programming:** Python | C++ | Java  
 
 ---
